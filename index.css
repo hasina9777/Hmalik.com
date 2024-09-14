@@ -69,13 +69,13 @@ header {
     background-color: #0b6da2; /* LinkedIn blue */
     color: white;
     border: none;
-    padding: 9px 9px;
+    padding: 5px 5px;
     margin-right: 5px;
     cursor: pointer;
     border-radius: 3px;
-    font-size: 8px;
+    font-size: 6px;
 }
 
 .social-share button#share-twitter {
-    background-color: #020303; /* X black */
+    background-color: #000000; /* X black */
 }
